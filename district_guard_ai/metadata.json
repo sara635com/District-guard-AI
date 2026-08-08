@@ -1,0 +1,6 @@
+{
+  "name": "DistrictGuard AI",
+  "description": "AI-powered public-health early-warning system for district disease outbreak surveillance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
